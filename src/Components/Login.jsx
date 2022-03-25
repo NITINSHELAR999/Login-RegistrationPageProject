@@ -61,7 +61,7 @@ function Login() {
 
 
           <button type="submit" id ="btn">
-            Forgate Password
+            Forgot Password
           </button>
 
           
